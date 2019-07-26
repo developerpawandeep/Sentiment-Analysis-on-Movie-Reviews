@@ -9,7 +9,7 @@ Kaggle is hosting this competition for the machine learning community to use for
 
 http://nlp.stanford.edu/sentiment/
 
-There you will find have source code, a live demo, and even an online interface to help train the model.
+Here you will find have source code, a live demo, and even an online interface to help train the model.
 
 [1] Pang and L. Lee. 2005. Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales. In ACL, pages 115–124.
 
